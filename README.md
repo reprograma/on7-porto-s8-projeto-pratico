@@ -44,7 +44,7 @@ Iremos descrever com calma e segurança cada um dos itens que esperamos que voc�
 ```json
 {
   "id": 1,
-  "nome": "Evidências",
+  "titulo": "Evidências",
   "duracao": "04:39"
 }
 ```

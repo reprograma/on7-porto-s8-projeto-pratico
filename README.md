@@ -72,7 +72,7 @@ Iremos descrever com calma e segurança cada um dos itens que esperamos que voc�
 
 ---
 
-### Opção 2 - Séries
+### Opção 3 - Séries
 
 ### Séries
 

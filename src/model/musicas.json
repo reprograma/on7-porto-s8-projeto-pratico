@@ -3,18 +3,24 @@
     "id": 1,
     "titulo": "Brisa",
     "artista": "IZA",
-    "duracao": "02:32"
+    "duracao": "02:32",
+    "single": true,
+    "album": ""
   },
   {
     "id": 2,
     "titulo": "Relicário",
     "artista": "Nando Reis",
-    "duracao": "04:05"
+    "duracao": "04:05",
+    "single": false,
+    "album": "Para quando o arco iris encontrar o pote de ouro"
   },
   {
     "id": 3,
     "titulo": "Sorry",
     "artista": "Beyonce",
-    "duracao": "03:53"
+    "duracao": "03:53",
+    "single": false,
+    "album": "Lemonade"
   }
 ]

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Pong",
+        "release": 1972,
+        "genre": "sports"
+    },
+    {
+        "id": 2,
+        "name": "Star Wars",
+        "release": 1983,
+        "genre": "shooter"
+    },
+    {
+        "id": 3, 
+        "name": "Raiders Of The Lost Ark",
+        "release": 1982,
+        "genre": ["action", "adventure"]
+    }
+]

@@ -6,11 +6,14 @@
 // 4. Usar a rota '/' passando o arquivo de musicas como segundo parâmetro
 // 5. Exportar o app
 
-const express = require('express');
+const express = require("express");
 const app = express();
 
-const musicas = require('./routes/musicasRoutes');
+const musicas = require("./routes/musicasRoutes");
 
-app.use('/', musicas);
+const cors = require("cors");
+app.use(cors());
 
-module.exports = app
+app.use("/", musicas);
+
+module.exports = app;

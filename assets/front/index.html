@@ -40,12 +40,11 @@
         lista.forEach((element) => {
           let linha = document.createElement("tr");
           let itemDaLinhaId = document.createElement("td");
-          itemDaLinhaId.innerText = element.titulo;
+          itemDaLinhaId.innerText = element.id;
           let itemDaLinhaNome = document.createElement("td");
-          itemDaLinhaNome.innerText = element.artista;
+          itemDaLinhaNome.innerText = element.titulo;
           let itemDaLinhaOpcao = document.createElement("td");
-          itemDaLinhaOpcao.innerHTML =
-            "<img style='width: 60px;' src='" + element.urlImagem + "'>";
+          itemDaLinhaOpcao.innerHTML = element.artista;
           linha.appendChild(itemDaLinhaId);
           linha.appendChild(itemDaLinhaNome);
           linha.appendChild(itemDaLinhaOpcao);

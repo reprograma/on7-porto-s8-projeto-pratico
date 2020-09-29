@@ -4,12 +4,47 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Front - Exemplo</title>
+    <style>
+      body {
+        max-width: 1120px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      #tabela-lista {
+        font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+      }
+
+      #tabela-lista td,
+      #tabela-lista th {
+        border: 1px solid #ddd;
+        padding: 8px;
+      }
+
+      #tabela-lista tr:nth-child(even) {
+        background-color: #f2f2f2;
+      }
+
+      #tabela-lista tr:hover {
+        background-color: #b382ba;
+      }
+
+      #tabela-lista th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #7e459b;
+        color: white;
+      }
+    </style>
   </head>
   <body>
     <table id="tabela-lista">
       <thead>
         <tr>
-          <th>#</th>
+          <th>Id</th>
           <th>Título</th>
           <th>Artista</th>
         </tr>

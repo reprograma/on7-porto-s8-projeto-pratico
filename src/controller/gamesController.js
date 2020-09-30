@@ -44,23 +44,7 @@
      
         res.status(200).send(names)
         }
-
-        // const getAllBroadcasts = (req, res) => {
-        //     const broadcast  = series.map((serie) => serie.broadcaster)
-        //     res.status(200).send(broadcast)
-        // }
-        
-        // const getByBroadcast = (req, res) => {
-        //     const broadcaster = req.params.broadcaster
-        
-        //     const broadcasterFiltrado = series.filter((serie) => serie.broadcaster == broadcaster)
-        //     res.status(200).send(broadcasterFiltrado)
-        // }
-        
-        // module.exports = { getAll, getByID, getAllBroadcasts, getByBroadcast }
-        
-        
-
+   
 
 
 // 3: EXPORTE TODOS OS MÉTODOS

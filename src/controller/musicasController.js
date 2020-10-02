@@ -23,7 +23,7 @@ const getMusicByID = (req, res) => {
 const getAllArtists = (req, res) => {
     // usamos o método map para mapear e trazer todos os valores do campo artista da lista musicas.json
     const artistas = musicas.map((musica) => musica.artista)
-    
+
     res.status(200).send(artistas)
 }
 
@@ -36,7 +36,7 @@ const getArtistByName = (req, res) => {
 
 const getAllAlbuns = (req, res) => {
     const albuns = musicas.map((musica) => musica.album)
-    
+
     res.status(200).send(albuns)
 }
 
@@ -50,8 +50,15 @@ const getAlbumByTitle = (req, res) => {
 // Bônus \o/
 const getMusicsSingle = (req, res) => {
     const musicasFiltradasPorSingle = musicas.filter((musica) => musica.single === true)
-    
-    res.status(200).send(musicasFiltradasPorSingle)
+
+    const artistaSingle = musicasFiltradasPorSingle.map((musica) => (
+        {
+            "artista": musica.artista,
+            "titulo": musica.titulo
+        }
+    ))
+
+    res.status(200).send(artistaSingle)
 }
 
 module.exports = {

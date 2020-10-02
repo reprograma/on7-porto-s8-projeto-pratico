@@ -117,6 +117,15 @@ Agora vamos relembrar alguns conceitos importantes:
 - **V**iew: é a camada de interação com o usuário. Ela apenas faz a exibição dos dados, sendo ela por meio de um html ou xml.
 - **C**ontroller: O responsável por receber todas as requisições do usuário. Seus métodos chamados actions são responsáveis por uma página, controlando qual model usar e qual view será mostrado ao usuário.
 
+Passo-a-passo com a mão no <s>massa</s> código:
+
+1. Esqueleto do projeto
+2. Models
+3. Controller
+4. Rotas
+5. App.js
+6. Server.js
+
 ### Postman
 
 Essa ferramenta permite testar serviços RESTful por meio do envio de requisições HTTP e da análise do seu retorno. Você pode salvar todas as suas _collections_ e facilitar o seu dia-a-dia como pessoa desenvolvedora!

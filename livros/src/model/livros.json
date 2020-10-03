@@ -1,0 +1,79 @@
+[
+    {
+        "titulo": "O Pequeno Príncipe",
+        "autor": "Antoine de Saint-Exupéry",
+        "ano": "1943",
+        "id": 1,
+        "brasileiro": false
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "ano": "1949",
+        "id": 2,
+        "brasileiro": false
+    },
+    {
+        "titulo": "A Menina que Roubava Livros",
+        "autor": "Markus Zusak",
+        "ano": "2005",
+        "id": 3,
+        "brasileiro": false
+    },
+    {
+        "titulo": "Harry Potter e o Prisioneiro de Azkaban",
+        "autor": "J. K. Rowling",
+        "ano": "1999",
+        "id": 4,
+        "brasileiro": false
+    },
+    {
+        "titulo": "Hamlet",
+        "autor": "William Shakespeare",
+        "ano": "1603",
+        "id": 5,
+        "brasileiro": false
+    },
+    {
+        "titulo": "Memórias Póstumas de Brás Cubas",
+        "autor": "Machado de Assis",
+        "ano": "1881",
+        "id": 6,
+        "brasileiro": true
+    },
+    {
+        "titulo": "Mindset: A nova psicologia do sucesso",
+        "autor": "Carol S. Dweck",
+        "ano": "2017",
+        "id": 7,
+        "brasileiro": false
+    },
+    {
+        "titulo": "Capitães da Areia",
+        "autor": "Jorge Amado",
+        "ano": "1937",
+        "id": 8,
+        "brasileiro": true
+    },
+    {
+        "titulo": "Luar Peregrino",
+        "autor": "Wilson Frungilo Jr",
+        "ano": "2001",
+        "id": 9,
+        "brasileiro": true
+    },
+    {
+        "titulo": "Meu Pé de Laranja Lima",
+        "autor": "José Mauro de Vasconcelos",
+        "ano": "1968",
+        "id": 10,
+        "brasileiro": true
+    },
+    {
+        "titulo": "Dom Casmurro",
+        "autor": "Machado de Assis",
+        "ano": "1899",
+        "id": 11,
+        "brasileiro": true
+    }
+]

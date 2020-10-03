@@ -1,0 +1,15 @@
+{
+  "name": "on7-porto-s8-projeto-pratico",
+  "version": "1.0.0",
+  "description": "Projeto Prático - Semana 8",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server",
+    "nodemon": "nodemon server"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}

@@ -1,0 +1,105 @@
+[
+    {
+       "id": 1,
+       "nome": "Stranger Things",
+       "genero": [
+       "Drama",
+       "Fantasia",
+       "Suspense"
+       ],
+       "temporada": 4,
+       "canalOriginal": "Netflix"
+    },
+    {
+       "id": 2,
+       "nome": "Dark",
+       "genero": [
+       "Drama",
+       "Ficção Científica",
+       "Suspense"
+       ],
+       "temporada": 3,
+       "canalOriginal": "Netflix"
+    },
+    {
+       "id": 3,
+       "nome": "The Handmaid's Tale",
+       "genero": [
+       "Drama",
+       "Ficção Científica"
+       ],
+       "temporada": 3,
+       "canalOriginal": "Globo Play"
+    },
+    {
+       "id": 4,
+       "nome": "Rick and Morty",
+       "genero": [
+       "Aventura",
+       "Comédia",
+       "Ficção Científica",
+       "Animação"
+       ],
+       "temporada": 5,
+       "canalOriginal": "Netflix"
+    },
+    {
+       "id": 5,
+       "nome": "Chernobyl",
+       "genero": "Drama",
+       "temporada": 1,
+       "canalOriginal": "HBO"
+    },
+    {
+       "id": 6,
+       "nome": "Vikings",
+       "genero": [
+       "Aventura",
+       "Drama",
+       "Histórico"
+       ],
+       "temporada": 6,
+       "canalOriginal": "History"
+    },
+    {
+       "id": 7,
+       "nome": "Atypical",
+       "genero": [
+       "Comédia",
+       "Drama"
+       ],
+       "temporada": 4,
+       "canalOriginal": "Netflix"
+    },
+    {
+       "id": 8,
+       "nome": "Prison Break",
+       "genero": [
+       "Drama",
+       "Suspense"
+       ],
+       "temporada": 5,
+       "canalOriginal": "FOX"
+    },
+    {
+       "id": 9,
+       "nome": "Bates Motel",
+       "genero": [
+       "Drama",
+       "Policial",
+       "Suspense"
+       ],
+       "temporada": 5,
+       "canalOriginal": "A&E"
+    },
+    {
+       "id": 10,
+       "nome": "The Good Place",
+       "genero": [
+       "Aventura",
+       "Comédia"
+       ],
+       "temporada": 4,
+       "canalOriginal": "NBC"
+    }
+]    

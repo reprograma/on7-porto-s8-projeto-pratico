@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "Série": "Anne with an E",
+        "temporadas": "1",
+        "Gênero": "Obra de Época"
+    },
+    {
+        "id": "2",
+        "Série": "Good Girls",
+        "Temporadas": "3",
+        "Gênero": "Comédia dramática"
+    },
+    {
+        "id": "3",
+        "Série": "Grace and Frankie",
+        "Temporadas": "6",
+        "Gênero": "Comédia"
+    },
+    {
+        "id": "4",
+        "Série": "Vis a vis",
+        "Temporadas": "2",
+        "Gênero": "Folhetim televisivo"
+    },
+    {
+        "id": "5",
+        "Série": "Narcos",
+        "Temporadas": "3",
+        "Gênero": "Crime"
+    },
+    {
+        "id": "6",
+        "Série": "Sex Education",
+        "Temporadas": "2",
+        "Gênero": "Comédia dramática"
+    },
+    {
+        "id": "7",
+        "Série": "The Crown",
+        "Temporadas": "4",
+        "Gênero": "Drama"
+    },
+    {
+        "id": "8",
+        "Série": "House of Cards",
+        "Temporadas": "6",
+        "Gênero": "Drama Político"
+    },
+    {
+        "id": "9",
+        "Série": "3%",
+        "Temporadas": "4",
+        "Gênero": "Drama"
+    },
+    {
+        "id": "10",
+        "Série": "Arrow",
+        "Temporadas": "8",
+        "Gênero": "Ação"
+    }
+]
